@@ -13,6 +13,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.*;
 
+/**
+ * @author liyonghao 2017.11
+ */
 public class Crawler {
 
     private static String getUrl(String url, Map<String, String> params, String charset) {
